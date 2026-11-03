@@ -1,4 +1,5 @@
-# 使用 Google Colab GPU 訓練神經網路：MNIST 手寫數字分類
+# 人工智慧期中報告:使用 Google Colab GPU 訓練神經網路：MNIST 手寫數字分類
+組員:11224105葉佳彤 11224108王馨儀
 
 本專案依據知乎文章〈完整的動手指南，可在 Google Colab GPU 上訓練你的神經網絡模型〉整理，使用 PyTorch 建立簡單的全連接神經網路，並以 MNIST 手寫數字資料集示範 GPU / CPU 訓練流程。
 
